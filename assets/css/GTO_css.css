@@ -60,6 +60,13 @@ a {
     font-weight: bold;
 }
 
+.docs img {
+    margin-top: 5%;
+    width: 25vh;
+    border-radius: 15px;
+    border-width: 5px;
+}
+
 .block {
     margin-bottom: 5%;
 }
